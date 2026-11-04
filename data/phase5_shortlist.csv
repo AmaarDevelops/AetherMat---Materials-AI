@@ -1,0 +1,5 @@
+formula_pretty,material_id,energy_above_hull,dft_band_gap,pred_bulk_modulus,bulk_std,bulk_lower_estimate,nsites,avg_atomic_mass,space_group,experimentally_reported,low_confidence,mp_link
+Al3GaN4,mp-1228436,0.0019502125000006032,3.4073,180.58924999999988,27.116145153164783,153.4731048468351,8,25.836801975000004,Pm,False,True,https://next-gen.materialsproject.org/materials/mp-1228436
+Al2GaN3,mp-1228953,0.004115225000003164,3.1754,178.18307999999973,26.92289258382668,151.26018741617304,12,27.6176962,Cm,False,True,https://next-gen.materialsproject.org/materials/mp-1228953
+GaBO3,mp-1078259,0.003771963166665948,3.8638999999999997,162.97420000000037,58.80383498480347,104.1703650151969,10,25.706439999999997,R-3c,True,True,https://next-gen.materialsproject.org/materials/mp-1078259
+BeO,mp-2542,0.0,7.463099999999999,164.5350633333333,72.28418268901795,92.25088064431536,4,12.505790999999999,P6_3mc,True,True,https://next-gen.materialsproject.org/materials/mp-2542

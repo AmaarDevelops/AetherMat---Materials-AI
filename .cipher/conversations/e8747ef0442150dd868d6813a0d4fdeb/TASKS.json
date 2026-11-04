@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Install materials-science dependencies",
+    "notes": "Installed: mp-api, matminer, pymatgen, pandas, numpy, scikit-learn",
+    "status": "done"
+  },
+  {
+    "title": "Write phase1_pipeline.py",
+    "notes": "Created C:\\oh\\Materials\\phase1_pipeline.py with MPRester ingestion + feature engineering. Verified real imports and library calls.",
+    "status": "done"
+  },
+  {
+    "title": "Verify pipeline imports and smoke test",
+    "notes": "Smoke test passed: py_compile OK, import verified, feature_labels(197) generated with real matminer featurizer.",
+    "status": "done"
+  }
+]

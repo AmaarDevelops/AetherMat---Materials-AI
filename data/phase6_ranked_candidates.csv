@@ -1,0 +1,26 @@
+formula_pretty,predicted_kappa_300K,source_file,pred_bulk_modulus,bulk_std,dft_band_gap,energy_above_hull,nsites,avg_atomic_mass,space_group,experimentally_reported,seed,nearest_known,status,material_id,mp_link
+BeO,41.737617094629016,phase5_shortlist.csv,164.5350633333333,72.28418268901795,7.463099999999999,0.0,4.0,12.505790999999999,P6_3mc,True,,,,mp-2542,https://next-gen.materialsproject.org/materials/mp-2542
+Al0.189B0.331C0.062N0.418,40.91888877079534,novel_thermal_discoveries.csv,,,,,,15.2774157954,,,BN,AlBN2,UNVERIFIED - no structure or stability check yet,,
+Al0.325B0.175C0.114N0.386,39.78971655223193,novel_thermal_discoveries.csv,,,,,,17.436731045000002,,,AlN,Al3BN4,UNVERIFIED - no structure or stability check yet,,
+Al0.325B0.227C0.122N0.325,39.24718473410171,novel_thermal_discoveries.csv,,,,,,17.257837782782783,,,AlN,AlBN2,UNVERIFIED - no structure or stability check yet,,
+Al0.27B0.224C0.146N0.36,38.994950771067685,novel_thermal_discoveries.csv,,,,,,16.502653622,,,AlN,AlBN2,UNVERIFIED - no structure or stability check yet,,
+Al0.426B0.051C0.095N0.428,38.385014408482405,novel_thermal_discoveries.csv,,,,,,19.1813805436,,,AlN,Al3BN4,UNVERIFIED - no structure or stability check yet,,
+Al0.399B0.106C0.057N0.437,37.999380562564774,novel_thermal_discoveries.csv,,,,,,18.73587357497497,,,AlN,Al3BN4,UNVERIFIED - no structure or stability check yet,,
+B0.29N0.554Si0.156,25.103840881332165,novel_thermal_discoveries.csv,,,,,,15.276239799999999,,,BN,BN,UNVERIFIED - no structure or stability check yet,,
+Al0.425N0.491Si0.084,22.497078642661982,novel_thermal_discoveries.csv,,,,,,20.703625605000006,,,AlN,AlN,UNVERIFIED - no structure or stability check yet,,
+Al0.365C0.059N0.468Si0.109,22.342889459372582,novel_thermal_discoveries.csv,,,,,,20.153194794205792,,,AlN,Al3BN4,UNVERIFIED - no structure or stability check yet,,
+Al0.386C0.04N0.5Si0.074,22.076076427700944,novel_thermal_discoveries.csv,,,,,,19.976978899600002,,,AlN,AlN,UNVERIFIED - no structure or stability check yet,,
+Al0.254C0.137N0.398Si0.211,21.26777811827275,novel_thermal_discoveries.csv,,,,,,19.9994838044,,,AlN,Y2Si4CN6,UNVERIFIED - no structure or stability check yet,,
+Al0.211C0.114N0.439Si0.236,20.537049878693708,novel_thermal_discoveries.csv,,,,,,19.8394437446,,,AlN,Y2Si4CN6,UNVERIFIED - no structure or stability check yet,,
+Al0.377N0.489Si0.133,20.140930694605125,novel_thermal_discoveries.csv,,,,,,20.777465317517517,,,AlN,AlN,UNVERIFIED - no structure or stability check yet,,
+Al0.235N0.57Si0.195,19.038810682611338,novel_thermal_discoveries.csv,,,,,,19.801153070999998,,,AlN,Si3N4,UNVERIFIED - no structure or stability check yet,,
+Al0.21N0.538Si0.253,18.75865969327455,novel_thermal_discoveries.csv,,,,,,20.287072133866136,,,AlN,Si3N4,UNVERIFIED - no structure or stability check yet,,
+Al0.259N0.526Si0.215,18.497067975644413,novel_thermal_discoveries.csv,,,,,,20.3941251974,,,AlN,Al3BN4,UNVERIFIED - no structure or stability check yet,,
+Al0.325N0.5Si0.175,18.05356866683657,novel_thermal_discoveries.csv,,,,,,20.687312544999997,,,AlN,Al3BN4,UNVERIFIED - no structure or stability check yet,,
+Al0.189N0.581Si0.23,17.801205345104133,novel_thermal_discoveries.csv,,,,,,19.6970684954,,,AlN,Si3N4,UNVERIFIED - no structure or stability check yet,,
+Al0.162N0.522Si0.316,17.036636642224096,novel_thermal_discoveries.csv,,,,,,20.5575246532,,,AlN,Ba(Si3N4)2,UNVERIFIED - no structure or stability check yet,,
+SiPN3,14.790808011576791,phase5_screened_all.csv,128.50969666666674,66.69362363413255,4.2125,0.0161487693333324,10.0,20.215872400000002,P2_1,False,,,,mp-1219220,https://next-gen.materialsproject.org/materials/mp-1219220
+Al2GaN3,11.728145081358393,phase5_shortlist.csv,178.18307999999973,26.92289258382668,3.1754,0.0041152250000031,12.0,27.6176962,Cm,False,,,,mp-1228953,https://next-gen.materialsproject.org/materials/mp-1228953
+Al3GaN4,11.480629029395995,phase5_shortlist.csv,180.58924999999988,27.116145153164783,3.4073,0.0019502125000006,8.0,25.836801975000004,Pm,False,,,,mp-1228436,https://next-gen.materialsproject.org/materials/mp-1228436
+Al4CO4,10.428739709235309,phase5_screened_all.csv,140.80879,67.33693605611928,3.8233,0.0,18.0,20.4371616,Cmc2_1,True,,,,mp-13703,https://next-gen.materialsproject.org/materials/mp-13703
+Ga0.062N0.588Si0.35,9.956778882604398,novel_thermal_discoveries.csv,,,,,,22.388690600000004,,,GaN,Si3N4,UNVERIFIED - no structure or stability check yet,,
